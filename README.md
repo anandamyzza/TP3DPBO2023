@@ -27,5 +27,6 @@ Terdapat tiga tabel pada database di program ini, yaitu:
 5. Pada halaman **Home**, pengguna bisa menekan album yang ada dan pengguna akan diarahkan ke halaman detail album yang dipilih. Pada halaman ini, pengguna bisa menghapus dan mengubah data album yang dipilih. Saat pengguna menekan tombol **Edit**, pengguna akan dihadapkan dengan halaman form agar pengguna bisa mengubah data album yang dipilih.
 
 ## Dokumentasi
+https://github.com/anandamyzza/TP3DPBO2023C2/assets/100767177/c2ed3f8e-1bd0-4644-aa01-fb72f1918028
 
 Screenshots ada pada folder yang sudah disediakan di repositori ini.
